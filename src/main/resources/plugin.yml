@@ -1,0 +1,6 @@
+name: Bot
+version: 1.0
+main: club.lite.bot.Bot
+description: Simple Discord Bot Status Plugin
+website: https://dsc.gg/liteclubdevelopment
+author: HCFAlerts
