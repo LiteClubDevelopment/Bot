@@ -6,7 +6,7 @@
 
     <groupId>club.lite.bot</groupId>
     <artifactId>Bot</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <url>https://dsc.gg/liteclubdevelopment</url>
 
     <properties>
